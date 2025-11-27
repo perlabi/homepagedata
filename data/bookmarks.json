@@ -1,0 +1,2011 @@
+{
+  "public": {
+    "bookmark": {
+      "groups": {
+        "am00000": {
+          "key": "flutter",
+          "label": "Flutter, Firebase",
+          "list": {
+            "a0000": {
+              "label": "Flutter pub.dev",
+              "url": "https://pub.dev/"
+            },
+            "b0001": {
+              "label": "Flutter Cookbook",
+              "url": "https://flutter.dev/docs/cookbook"
+            },
+            "c0002": {
+              "label": "BLoC (for flutter)",
+              "url": "https://felangel.github.io/bloc/#/"
+            },
+            "c0010": {
+              "label": "states_rebuilder",
+              "url": "https://pub.dev/documentation/states_rebuilder/latest/"
+            },
+            "c0020": {
+              "label": "bloc vs scoped model vs states rebuild",
+              "url": "https://medium.com/flutter-community/flutter-oneyearchallenge-scoped-model-vs-bloc-pattern-vs-states-rebuilder-23ba11813a4f"
+            },
+            "d0100": {
+              "label": "Firebase for Flutter (tutorial)",
+              "url": "https://codelabs.developers.google.com/codelabs/flutter-firebase/"
+            },
+            "e0100": {
+              "label": "민욱's mobile dev",
+              "url": "https://minwook-shin.github.io/"
+            }
+          }
+        },
+        "ama0001": {
+          "key": "saipan",
+          "label": "우루과이, Overseas",
+          "list": {
+            "0000": {
+              "label": "우루과이뉴스(영어)",
+              "url": "http://en.mercopress.com/uruguay"
+            },
+            "0001": {
+              "label": "우루과이뉴스(스페인어)",
+              "url": "http://www.elobservador.com.uy/"
+            },
+            "0002": {
+              "label": "한국의 우루과이사람들?(스페인어)",
+              "url": "http://www.expat.com/es/nacionalidades/uruguayo/en/asia/corea-del-sur/"
+            },
+            "0003": {
+              "label": "우루과이농장",
+              "url": "http://www.uruguayfarms.com/"
+            },
+            "0004": {
+              "label": "우루과이 거주요청시 필요사항",
+              "url": "http://board.totaluruguay.com/Immigration/178816-Residency_requirements"
+            },
+            "0005": {
+              "label": "우루과이로 moving",
+              "url": "http://internationalliving.com/2012/05/move-to-uruguay-for-the-best-quality-of-life-in-latin-america/"
+            },
+            "0006": {
+              "label": "우루과이 부동산 찾기",
+              "url": "http://www.buscandocasa.com/"
+            },
+            "0007": {
+              "label": "우루과이 은행 계좌 만들기",
+              "url": "http://mklifestory.tistory.com/239"
+            },
+            "0008": {
+              "label": "URUGUAY RESIDENCY AND IMMIGRATION",
+              "url": "http://www.uruguayfarms.com/inmigration-uruguay.html"
+            },
+            "0009": {
+              "label": "Cost of Living in Uruguay-Prices in Uruguay",
+              "url": "http://www.numbeo.com/cost-of-living/country_result.jsp?country=Uruguay&displayCurrency=KRW"
+            },
+            "0010": {
+              "label": "How To Buy Real Estate in Uruguay",
+              "url": "http://www.southamericaliving.com/living-in-uruguay-purchasing-real-estate/"
+            },
+            "0011": {
+              "label": "Mercado Libre Uruguay",
+              "url": "http://www.mercadolibre.com.uy/"
+            },
+            "0012": {
+              "label": "Total Uruguay Expat eBook Table of Contents",
+              "url": "http://guide.totaluruguay.com/"
+            },
+            "0013": {
+              "label": "Positive Aspects of Living in Uruguay",
+              "url": "http://guide.totaluruguay.com/Why_Uruguay/20090623-152620-Positive-Aspects-of-Living-in-Uruguay"
+            },
+            "0014": {
+              "label": "Uruguay Expat Life",
+              "url": "http://www.uruguayexpat.info/"
+            },
+            "0015": {
+              "label": "Blog, Paridise Uruguay",
+              "url": "http://www.paradiseuruguayblog.com/"
+            },
+            "0016": {
+              "label": "Farmland Uruguay offers agricultural real estate in Uruguay",
+              "url": "http://www.farmlanduruguay.com/"
+            },
+            "0017": {
+              "label": "",
+              "url": ""
+            },
+            "0018": {
+              "label": "독일어캠프-Carl Duisberg",
+              "url": "http://www.carl-duisberg-german-courses.com/index.php?L=8"
+            },
+            "0019": {
+              "label": "",
+              "url": ""
+            },
+            "0020": {
+              "label": "노랑풍선여행",
+              "url": "http://ybtour.co.kr/"
+            },
+            "0021": {
+              "label": "Yacht world",
+              "url": "http://www.yachtworld.com/"
+            },
+            "0022": {
+              "label": "YachtLine",
+              "url": "http://www.yachtline.co.kr/"
+            },
+            "0023": {
+              "label": "대한항공",
+              "url": "http://kr.koreanair.com"
+            },
+            "0024": {
+              "label": "아시아나항공",
+              "url": "http://www.flyasiana.com"
+            }
+          }
+        },
+        "bm00001": {
+          "key": "flex",
+          "label": "Flex, ActionScript, Flash",
+          "list": {
+            "0000": {
+              "label": "Flex강좌",
+              "url": "http://www.eomjinyoung.com/xe/"
+            },
+            "0001": {
+              "label": "Flex reference 문서",
+              "url": "http://help.adobe.com/en_US/FlashPlatform/reference/actionscript/3/index.html"
+            },
+            "0002": {
+              "label": "Flex reference 한글",
+              "url": "http://livedocs.adobe.com/flash/9.0_kr/ActionScriptLangRefV3/"
+            },
+            "0003": {
+              "label": "Cairngorm, Developing Flex RIAs",
+              "url": "http://www.adobe.com/devnet/flex/articles/cairngorm_pt1.html"
+            },
+            "0004": {
+              "label": "Cairngorm2, Sourceforge",
+              "url": "http://sourceforge.net/adobe/cairngorm/wiki/About/"
+            },
+            "0005": {
+              "label": "Cairngorm, Introducing(PDF)",
+              "url": "http://www.adobe.com/devnet/flex/articles/introducing_cairngorm.html"
+            },
+            "0006": {
+              "label": "",
+              "url": ""
+            },
+            "0007": {
+              "label": "Adobe Flash Builder 4.5",
+              "url": "http://help.adobe.com/en_US/flashbuilder/using/index.html"
+            },
+            "0008": {
+              "label": "Flex in a Week video training",
+              "url": "http://www.adobe.com/devnet/flex/videotraining.html"
+            },
+            "0009": {
+              "label": "BlazeDS from Adobe",
+              "url": "http://opensource.adobe.com/wiki/display/blazeds/BlazeDS"
+            },
+            "0010": {
+              "label": "Open source flash",
+              "url": "http://osflash.org/"
+            },
+            "0011": {
+              "label": "",
+              "url": ""
+            },
+            "0012": {
+              "label": "ActionScript projects",
+              "url": "http://help.adobe.com/en_US/Flex/4.0/UsingFlashBuilder/WS6f97d7caa66ef6eb1e63e3d11b6c4d0d21-7ff7.html"
+            },
+            "0013": {
+              "label": "",
+              "url": ""
+            },
+            "0014": {
+              "label": "Flex, blazeds, Google-appEngine, java",
+              "url": "http://jvalentino.blogspot.com/2009/06/flex-blazeds-google-app-engine-java.html"
+            },
+            "0015": {
+              "label": "GraniteDS(AMF)",
+              "url": "http://www.graniteds.org/confluence/"
+            },
+            "0016": {
+              "label": "",
+              "url": ""
+            },
+            "0017": {
+              "label": "ADOBE.com",
+              "url": "http://www.adobe.com/"
+            },
+            "0018": {
+              "label": "SWF 포맷",
+              "url": "http://www.adobe.com/devnet/swf/"
+            }
+          }
+        },
+        "cm00002": {
+          "key": "etrace",
+          "label": "이트레이스",
+          "list": {
+            "0000": {
+              "label": "ETRACE Google Apps",
+              "url": "https://www.google.com/a/etracekorea.com/"
+            },
+            "0001": {
+              "label": "e-Trace",
+              "url": "http://www.etrace.co.kr/"
+            },
+            "0002": {
+              "label": "e-Trace Map",
+              "url": "http://map.etrace.co.kr/HMMAP/HM_GIS.html#now=123;dom=www.etrace.co.kr"
+            },
+            "0003": {
+              "label": "e-Trace Map(Debug)",
+              "url": "http://map.etrace.co.kr/HMMAP/HM_GIS.html#debug=Y;now=123;dom=www.etrace.co.kr"
+            },
+            "0004": {
+              "label": "",
+              "url": ""
+            },
+            "0005": {
+              "label": "eKsys TalMap 매뉴얼이 뭐냐 이게",
+              "url": "http://www.talmap.co.kr/tutorial/index.html"
+            },
+            "0006": {
+              "label": "도로공사 도로,IC,JC",
+              "url": "http://www.freeway.co.kr/portal/rod/nosun/travel/nosun2/travels_view.jsp"
+            },
+            "0007": {
+              "label": "JobKorea",
+              "url": "http://www.jobkorea.co.kr/"
+            },
+            "0008": {
+              "label": "KT-IDC",
+              "url": "http://www.kt-idc.com/"
+            },
+            "0009": {
+              "label": "KT Open API",
+              "url": "http://dev.fone.olleh.com/"
+            },
+            "0010": {
+              "label": "KT 또 Open API",
+              "url": "http://www.econovation.co.kr/"
+            },
+            "0011": {
+              "label": "",
+              "url": ""
+            },
+            "0012": {
+              "label": "LKLogis",
+              "url": "http://218.153.4.22/"
+            },
+            "0013": {
+              "label": "한진S오일",
+              "url": "http://218.153.4.25/LoginPage.aspx"
+            },
+            "0014": {
+              "label": "한진동부제철",
+              "url": "http://218.153.4.25:8282/LoginPage.aspx"
+            },
+            "0015": {
+              "label": "하나물류",
+              "url": "http://asp.ktlogis.com:8787/index.jsp"
+            },
+            "0016": {
+              "label": "동원물류",
+              "url": "http://asp.ktlogis.com:8899/index.jsp"
+            },
+            "0017": {
+              "label": "TESCO",
+              "url": "http://218.153.4.16/tesco/"
+            }
+          }
+        },
+        "dm00003": {
+          "key": "perl",
+          "label": "Perl",
+          "list": {
+            "0000": {
+              "label": "Perl.com",
+              "url": "Perl 홈페이지"
+            },
+            "0001": {
+              "label": "StrawberryPerl",
+              "url": "http://strawberryperl.com/"
+            },
+            "0002": {
+              "label": "CamelBox",
+              "url": "http://code.google.com/p/camelbox/"
+            },
+            "0003": {
+              "label": "ActiveState",
+              "url": "http://www.activestate.com"
+            },
+            "0004": {
+              "label": "Perl Google AppEngine",
+              "url": "http://code.google.com/p/perl-appengine/"
+            },
+            "0005": {
+              "label": "",
+              "url": ""
+            },
+            "0006": {
+              "label": "PAUSE",
+              "url": "http://pause.perl.org"
+            },
+            "0007": {
+              "label": "CPAN",
+              "url": "http://www.cpan.org"
+            },
+            "0008": {
+              "label": "CPAN search",
+              "url": "http://search.cpan.org"
+            },
+            "0009": {
+              "label": "PPM Repository, UWINNIPEG",
+              "url": "http://cpan.uwinnipeg.ca/PPMPackages/10xx/"
+            },
+            "0010": {
+              "label": "Perldoc",
+              "url": "http://perldoc.perl.org"
+            },
+            "0011": {
+              "label": "Perl CD Bookshelf",
+              "url": "http://www.unix.com.ua/orelly/perl/index.htm"
+            },
+            "0012": {
+              "label": "",
+              "url": ""
+            },
+            "0013": {
+              "label": "Perl.or.kr",
+              "url": "http://www.perl.or.kr"
+            },
+            "0014": {
+              "label": "Perl Mania",
+              "url": "http://www.perlmania.or.kr"
+            },
+            "0015": {
+              "label": "Korean Perl Workshop",
+              "url": "http://event.perl.kr"
+            },
+            "0016": {
+              "label": "Perl.org",
+              "url": "http://www.perl.org"
+            },
+            "0017": {
+              "label": "Perl Monks",
+              "url": "http://www.perlmonks.org"
+            },
+            "0018": {
+              "label": "Perl Mongers",
+              "url": "http://www.pm.org"
+            }
+          }
+        },
+        "em00004": {
+          "key": "rLang",
+          "label": "R 언어",
+          "list": {
+            "0000": {
+              "label": "R-project",
+              "url": "https://cran.r-project.org/"
+            },
+            "0001": {
+              "label": "R 스튜디오",
+              "url": "https://www.rstudio.com/"
+            },
+            "0002": {
+              "label": "R 스튜디오 packages",
+              "url": "https://www.rstudio.com/products/rpackages/"
+            },
+            "0003": {
+              "label": "R 언어매뉴얼",
+              "url": "https://cran.r-project.org/doc/manuals/r-release/R-lang.html"
+            },
+            "0004": {
+              "label": "R manuals",
+              "url": "https://cran.r-project.org/manuals.html"
+            },
+            "0005": {
+              "label": "Code school-Try R",
+              "url": "http://tryr.codeschool.com/"
+            },
+            "0006": {
+              "label": "R Programming course",
+              "url": "https://www.coursera.org/learn/r-programming"
+            },
+            "0007": {
+              "label": "Quick-R",
+              "url": "https://www.statmethods.net/"
+            },
+            "0008": {
+              "label": "공공데이터포털",
+              "url": "https://www.data.go.kr/"
+            },
+            "0009": {
+              "label": "서울열린데이터광장",
+              "url": "http://data.seoul.go.kr/"
+            },
+            "0010": {
+              "label": "한국복지패널",
+              "url": "https://www.koweps.re.kr:442"
+            }
+          }
+        },
+        "fm00005": {
+          "key": "gis",
+          "label": "GIS, 맵",
+          "list": {
+            "0000": {
+              "label": "PostGIS-PostgreSQL+GIS",
+              "url": "http://postgis.net/"
+            },
+            "0001": {
+              "label": "지리정보처리LIB-JTS Topology Suite",
+              "url": "http://tsusiatsoftware.net/jts/main.html"
+            },
+            "0002": {
+              "label": "해도용 SHP데이터",
+              "url": "http://www.naturalearthdata.com/downloads/"
+            },
+            "0005": {
+              "label": "Open Source Flex GeoSpatial Solutions",
+              "url": "http://www.webmapsolutions.com/open-source-flex-geospatial-solutions"
+            },
+            "0006": {
+              "label": "지도그래픽-OpenLayer",
+              "url": "http://openlayers.org/"
+            },
+            "0008": {
+              "label": "Open Street Map",
+              "url": "http://www.openstreetmap.org/"
+            },
+            "0009": {
+              "label": "OSM(Open Street Map) XML 포맷",
+              "url": "http://wiki.openstreetmap.org/wiki/OSM_XML"
+            },
+            "0010": {
+              "label": "Free GEO Tools",
+              "url": "http://freegeographytools.com/2008/the-big-list-of-free-basic-gis-programs-a-through-h"
+            },
+            "0011": {
+              "label": "OSGeo 한국어 지부",
+              "url": "http://wiki.osgeo.org/wiki/Korea"
+            },
+            "0012": {
+              "label": "GRASS 오픈소스GIS",
+              "url": "http://grass.osgeo.org/"
+            },
+            "0013": {
+              "label": "Map Server",
+              "url": "http://www.mapserver.org/"
+            },
+            "0014": {
+              "label": "MS4W",
+              "url": "http://www.maptools.org/ms4w/"
+            },
+            "0015": {
+              "label": "GIS데이터",
+              "url": "http://www.biz-gis.com/pds"
+            },
+            "0016": {
+              "label": "n-DGPS",
+              "url": "https://www.ndgps.go.kr/"
+            },
+            "0017": {
+              "label": "국가지리정보유통망",
+              "url": "http://www.ngic.go.kr/index.jsp"
+            },
+            "0018": {
+              "label": "통계지리정보서비스",
+              "url": "http://sgis.kostat.go.kr"
+            },
+            "0019": {
+              "label": "표준노드링크관리시스템",
+              "url": "http://nodelink.its.go.kr/"
+            },
+            "0020": {
+              "label": "ogr2ogr",
+              "url": "http://www.gdal.org/ogr2ogr.html"
+            },
+            "0021": {
+              "label": "노드링크format",
+              "url": "http://endofcap.tistory.com/3"
+            },
+            "0022": {
+              "label": "다음지도 OpenAPI",
+              "url": "http://apis.map.daum.net/"
+            },
+            "0023": {
+              "label": "네이버지도 API v3",
+              "url": "https://navermaps.github.io/maps.js/docs/"
+            }
+          }
+        },
+        "gm00006": {
+          "key": "google",
+          "label": "구글, 프로젝트",
+          "list": {
+            "0000": {
+              "label": "구글 Drive",
+              "url": "https://drive.google.com/"
+            },
+            "0001": {
+              "label": "G메일",
+              "url": "http://www.gmail.com/"
+            },
+            "0002": {
+              "label": "Firebase",
+              "url": "https://firebase.google.com/"
+            },
+            "0003": {
+              "label": "개발자콘솔(Play)",
+              "url": "https://play.google.com/apps/publish/"
+            },
+            "0004": {
+              "label": "국을플러스",
+              "url": "https://plus.google.com/"
+            },
+            "0005": {
+              "label": "구글App Engine",
+              "url": "https://appengine.google.com/"
+            },
+            "0006": {
+              "label": "__Objectify Appengine",
+              "url": "http://code.google.com/p/objectify-appengine/"
+            },
+            "0007": {
+              "label": "구글",
+              "url": "http://www.google.com/"
+            },
+            "0008": {
+              "label": "",
+              "url": ""
+            },
+            "0009": {
+              "label": "구글 스케치 업",
+              "url": "http://sketchup.google.com"
+            },
+            "0010": {
+              "label": "Google SketchUp Ruby API",
+              "url": "http://code.google.com/apis/sketchup/docs/index.html"
+            },
+            "0011": {
+              "label": "ruby library depot",
+              "url": "http://rhin.crai.archi.fr/rld/plugins_sections.php"
+            },
+            "0012": {
+              "label": "",
+              "url": ""
+            },
+            "0013": {
+              "label": "구글지도",
+              "url": "http://maps.google.co.kr/"
+            },
+            "0014": {
+              "label": "구글지도API",
+              "url": "http://code.google.com/intl/ko-KR/apis/maps/"
+            },
+            "0015": {
+              "label": "구글지도API reference, Flex",
+              "url": "http://code.google.com/intl/ko-KR/apis/maps/documentation/flash/reference.html"
+            },
+            "0016": {
+              "label": "구글지도API reference, JavaScript",
+              "url": "http://code.google.com/intl/ko-KR/apis/maps/documentation/javascript/reference.html"
+            },
+            "0017": {
+              "label": "",
+              "url": ""
+            },
+            "0018": {
+              "label": "구글 CODE",
+              "url": "http://code.google.com/"
+            },
+            "0019": {
+              "label": "",
+              "url": ""
+            },
+            "0020": {
+              "label": "구글사전",
+              "url": "http://www.google.co.kr/dictionary"
+            },
+            "0021": {
+              "label": "",
+              "url": ""
+            },
+            "0022": {
+              "label": "Bitbucket(Github비슷)",
+              "url": "https://bitbucket.org/"
+            }
+          }
+        },
+        "hm00007": {
+          "key": "android",
+          "label": "안드로이드, 아이폰 개발",
+          "list": {
+            "0000": {
+              "label": "Flutter documents",
+              "url": "https://flutter.dev/docs"
+            },
+            "0001": {
+              "label": "Dart documents",
+              "url": "https://dart.dev/guides"
+            },
+            "0002": {
+              "label": "",
+              "url": ""
+            },
+            "0003": {
+              "label": "Reactive-Native(JavaScript로 iOS,android)",
+              "url": "https://facebook.github.io/react-native/"
+            },
+            "0004": {
+              "label": "ES2015 배우기",
+              "url": "https://babeljs.io/learn-es2015/"
+            },
+            "0005": {
+              "label": "안드로이드 스크립트",
+              "url": "http://code.google.com/p/android-scripting/"
+            },
+            "0006": {
+              "label": "안드로이드 개발사이트",
+              "url": "http://developer.android.com/"
+            },
+            "0007": {
+              "label": "안드로이드 펍",
+              "url": "http://www.androidpub.com/"
+            },
+            "0008": {
+              "label": "애플 개발자센터",
+              "url": "http://developer.apple.com/"
+            },
+            "0009": {
+              "label": "애플 개발자 등록",
+              "url": "http://developer.apple.com/programs/register/"
+            },
+            "0010": {
+              "label": "",
+              "url": ""
+            },
+            "0011": {
+              "label": "Android AMF library",
+              "url": "http://www.aftek.com/afteklab/aftek-android-amf-library.shtml"
+            },
+            "0012": {
+              "label": "",
+              "url": ""
+            },
+            "0013": {
+              "label": "WebKit으로 브라우저흉내",
+              "url": "http://mobile.tutsplus.com/tutorials/android/android-sdk-embed-a-webview-with-the-webkit-engine/"
+            },
+            "0014": {
+              "label": "HTML5-jQTouch",
+              "url": "http://www.jqtouch.com/"
+            },
+            "0018": {
+              "label": "",
+              "url": ""
+            },
+            "0019": {
+              "label": "Kotlin. 새로운 Android개발 언어",
+              "url": "https://kotlinlang.org/"
+            },
+            "0020": {
+              "label": "Kotlin Korea",
+              "url": "http://kotlin.kr/"
+            },
+            "0021": {
+              "label": "Android Kotlin Fundamentals Course",
+              "url": "https://codelabs.developers.google.com/android-kotlin-fundamentals/"
+            },
+            "0022": {
+              "label": "Ktor: Server using Kotlin",
+              "url": "https://ktor.io/"
+            }
+          }
+        },
+        "im00008": {
+          "key": "hunet",
+          "label": "교육",
+          "list": {
+            "0000": {
+              "label": "휴넷",
+              "url": "http://www.hunet.co.kr"
+            },
+            "0001": {
+              "label": "BBC영어",
+              "url": "http://www.bbc.co.uk/worldservice/learningenglish/"
+            },
+            "0002": {
+              "label": "미쿡영어패우키",
+              "url": "http://www.learnamericanenglishonline.com/"
+            },
+            "0003": {
+              "label": "이명헌 경영스쿨",
+              "url": "http://www.emh.co.kr/index.pl"
+            }
+          }
+        },
+        "jm00009": {
+          "key": "myasset",
+          "label": "언론",
+          "list": {
+            "0000": {
+              "label": "Science on",
+              "url": "http://scienceon.hani.co.kr/"
+            },
+            "0001": {
+              "label": "",
+              "url": ""
+            },
+            "0002": {
+              "label": "경향",
+              "url": "http://www.khan.co.kr/"
+            },
+            "0003": {
+              "label": "오마이뉴스",
+              "url": "http://www.ohmynews.com/"
+            },
+            "0004": {
+              "label": "한겨레",
+              "url": "http://www.hani.co.kr/"
+            },
+            "0005": {
+              "label": "문화일보",
+              "url": "http://www.munhwa.com/"
+            },
+            "0006": {
+              "label": "서울신문",
+              "url": "http://www.seoul.co.kr/"
+            },
+            "0007": {
+              "label": "머니Today",
+              "url": "http://stock.moneytoday.co.kr/"
+            },
+            "0008": {
+              "label": "프레시안",
+              "url": "http://www.pressian.com/"
+            },
+            "0009": {
+              "label": "딴지일보",
+              "url": "http://www.ddanzi.com/"
+            },
+            "0010": {
+              "label": "시사in",
+              "url": "http://www.sisain.co.kr/"
+            },
+            "0011": {
+              "label": "미디어오늘",
+              "url": "http://www.mediatoday.co.kr/"
+            },
+            "0012": {
+              "label": "노컷뉴스",
+              "url": "http://www.nocutnews.co.kr/"
+            },
+            "0013": {
+              "label": "미디어스",
+              "url": "http://www.mediaus.co.kr/"
+            },
+            "0014": {
+              "label": "이데일리",
+              "url": "http://www.edaily.co.kr/"
+            },
+            "0015": {
+              "label": "",
+              "url": ""
+            },
+            "0016": {
+              "label": "B B C",
+              "url": "http://www.bbc.com//"
+            },
+            "0017": {
+              "label": "허핑턴포스트 한국",
+              "url": "http://www.huffingtonpost.kr/"
+            },
+            "0018": {
+              "label": "Huffington Post, US",
+              "url": "http://www.huffingtonpost.com/?country=US"
+            },
+            "0019": {
+              "label": "TechHolic",
+              "url": "http://techholic.co.kr/"
+            },
+            "0020": {
+              "label": "더 벨",
+              "url": "http://www.thebell.co.kr/"
+            }
+          }
+        },
+        "km00010": {
+          "key": "banks",
+          "label": "은행, 기부, 재테크",
+          "list": {
+            "0000": {
+              "label": "한국투자증권",
+              "url": "https://www.truefriend.com/"
+            },
+            "0001": {
+              "label": "신영증권-오류 투성이",
+              "url": "http://www.shinyoung.com/"
+            },
+            "0002": {
+              "label": "유안타",
+              "url": "http://www.yuantakorea.com/"
+            },
+            "0003": {
+              "label": "미래에셋",
+              "url": "https://www.miraeassetdaewoo.com/"
+            },
+            "0004": {
+              "label": "",
+              "url": ""
+            },
+            "0005": {
+              "label": "KB국민은행",
+              "url": "https://www.kbstar.com/"
+            },
+            "0006": {
+              "label": "신한은행",
+              "url": "http://banking.shinhan.com/sandbox/index.jsp"
+            },
+            "0007": {
+              "label": "KEB하나은행",
+              "url": "https://www.kebhana.com/"
+            },
+            "0008": {
+              "label": "기업은행",
+              "url": "http://mybank.ibk.co.kr/"
+            },
+            "0009": {
+              "label": "우리은행",
+              "url": "https://www.wooribank.com/"
+            },
+            "0010": {
+              "label": "",
+              "url": ""
+            },
+            "0011": {
+              "label": "JTS(후원)",
+              "url": "http://www.jts.or.kr/"
+            },
+            "0012": {
+              "label": "",
+              "url": ""
+            },
+            "0013": {
+              "label": "토지이용계획 열람 등",
+              "url": "http://luris.mltm.go.kr/"
+            },
+            "0014": {
+              "label": "국토부주택실거래가 열람",
+              "url": "http://rt.mltm.go.kr/"
+            },
+            "0015": {
+              "label": "인터넷등기소(IE전용)-등기부등본 등",
+              "url": "http://www.iros.go.kr/"
+            },
+            "0016": {
+              "label": "민원24-토지대장,지적도,건축물대장,토지이용계획,납세증명,주민등초본",
+              "url": "http://www.minwon.go.kr/"
+            },
+            "0017": {
+              "label": "온나라부동산정보포탈-공시지가, 실거래가, 공시가격, 아파트시세",
+              "url": "http://www.onnara.go.kr/"
+            },
+            "0018": {
+              "label": "국세청",
+              "url": "http://www.nts.go.kr/"
+            },
+            "0019": {
+              "label": "",
+              "url": ""
+            },
+            "0020": {
+              "label": "다음 부동산 경매",
+              "url": "http://realestate.daum.net/maemul/area/*/CC/*/summary#t:AreaSummary&c:CC&s:*"
+            },
+            "0021": {
+              "label": "여의주 부동산 경매",
+              "url": "http://ad.wonsns.com/main/main.php"
+            },
+            "0022": {
+              "label": "대법원 경매",
+              "url": "http://www.courtauction.go.kr/"
+            }
+          }
+        },
+        "mm00011": {
+          "key": "stock",
+          "label": "주식",
+          "list": {
+            "0000": {
+              "label": "Naver 금융",
+              "url": "http://finance.naver.com/"
+            },
+            "0001": {
+              "label": "네이버-대신",
+              "url": "http://m.stock.naver.com/research/daishin.nhn"
+            },
+            "0002": {
+              "label": "고객예탁금 정보(다음)",
+              "url": "http://finance.daum.net/quote/around.daum"
+            },
+            "0003": {
+              "label": "과거환율검색",
+              "url": "http://fx.sauder.ubc.ca/data.html"
+            },
+            "0011": {
+              "label": "",
+              "url": ""
+            },
+            "0012": {
+              "label": "팍스넷",
+              "url": "http://paxnet.moneta.co.kr/"
+            },
+            "0013": {
+              "label": "다음증권",
+              "url": "http://stock.daum.net/"
+            },
+            "0014": {
+              "label": "이베스트(이트레이드)",
+              "url": "http://www.ebestsec.co.kr/Main.jsp"
+            },
+            "0015": {
+              "label": "중국 CSI300(블룸버그)",
+              "url": "https://www.bloomberg.com/quote/SHSZ300:IND"
+            },
+            "0016": {
+              "label": "인도 SENSEX(블룸버그)",
+              "url": "https://www.bloomberg.com/quote/SENSEX:IND"
+            },
+            "0017": {
+              "label": "인도 NIFTY50(블룸버그)",
+              "url": "https://www.bloomberg.com/quote/NIFTY:IND"
+            },
+            "0018": {
+              "label": "베트남 VNINDEX(블룸버그)",
+              "url": "https://www.bloomberg.com/quote/VNINDEX:IND"
+            },
+            "0019": {
+              "label": "브라질 BOVESPA(블룸버그)",
+              "url": "https://www.bloomberg.com/quote/IBOV:IND"
+            },
+            "0020": {
+              "label": "유로 STOXX 50(블룸버그)",
+              "url": "https://www.bloomberg.com/quote/SX5E:IND"
+            },
+            "0021": {
+              "label": "세계주요지수(Investing.com)",
+              "url": "https://kr.investing.com/indices/major-indices"
+            },
+            "0022": {
+              "label": "",
+              "url": ""
+            },
+            "0023": {
+              "label": "Vietnam, Trading Economics",
+              "url": "https://ko.tradingeconomics.com/vietnam/stock-market"
+            },
+            "0024": {
+              "label": "",
+              "url": ""
+            },
+            "0025": {
+              "label": "e-토마토",
+              "url": "http://www.etomato.com/"
+            },
+            "0026": {
+              "label": "증권정보 오픈 API",
+              "url": "http://api.seibro.or.kr"
+            },
+            "0027": {
+              "label": "전종목 시세",
+              "url": "http://data.krx.co.kr/contents/MDC/MDI/mdiLoader/index.cmd?menuId=MDC0201020101"
+            }
+          }
+        },
+        "nm00012": {
+          "key": "mail",
+          "label": "메일, SNS",
+          "list": {
+            "0000": {
+              "label": "G메일",
+              "url": "http://www.gmail.com/"
+            },
+            "0001": {
+              "label": "다음메일",
+              "url": "http://mail.daum.net/"
+            },
+            "0002": {
+              "label": "Adobe Stock(Contrib)",
+              "url": "https://contributor.stock.adobe.com/kr/portfolio"
+            }
+          }
+        },
+        "pm00013": {
+          "key": "woodscape",
+          "label": "취미생활, 건강, 시골살이",
+          "list": {
+            "0000": {
+              "label": "나무풍경",
+              "url": "http://www.woodscape.co.kr/"
+            },
+            "0001": {
+              "label": "철천지",
+              "url": "http://www.77g.com/"
+            },
+            "0002": {
+              "label": "공구사랑",
+              "url": "http://www.mok09.co.kr/"
+            },
+            "0003": {
+              "label": "툴크래프트",
+              "url": "http://www.toolcraft.co.kr/"
+            },
+            "0004": {
+              "label": "가구설계도",
+              "url": "http://www.freeww.com/"
+            },
+            "0005": {
+              "label": "",
+              "url": ""
+            },
+            "0006": {
+              "label": "경량목구조강좌",
+              "url": "http://www.joyphilippines.org/bbs/board.php?bo_table=wt_etc&wr_id=85&sca=%EB%B6%80%EB%8F%99%EC%82%B0&page=1"
+            },
+            "0007": {
+              "label": "흙부대 생활기술 네트워크",
+              "url": "http://cafe.naver.com/earthbaghouse.cafe"
+            },
+            "0008": {
+              "label": "",
+              "url": ""
+            },
+            "0009": {
+              "label": "풍력발전기",
+              "url": "http://www.kkkk.com/shop/list.php?ca_id=1r05"
+            },
+            "0010": {
+              "label": "",
+              "url": ""
+            },
+            "0011": {
+              "label": "딴지헬쓰",
+              "url": "http://www.ddanzi.com/articles/article_view.asp?installment_id=251&article_id=4227"
+            },
+            "0012": {
+              "label": "보디빌딩매니아",
+              "url": "http://bbmania.dreamwiz.com/"
+            },
+            "0013": {
+              "label": "",
+              "url": ""
+            },
+            "0014": {
+              "label": "zooqle",
+              "url": "https://zooqle.com/"
+            },
+            "0015": {
+              "label": "torrentz2",
+              "url": "https://torrentz2.eu/"
+            },
+            "0016": {
+              "label": "rarbg torrent",
+              "url": "https://rarbg.is/torrents.php"
+            },
+            "0017": {
+              "label": "limetorrents",
+              "url": "http://www.limetorrents.com/"
+            },
+            "0018": {
+              "label": "1337x torrent",
+              "url": "http://1337x.to/"
+            },
+            "0019": {
+              "label": "torrentproject",
+              "url": "http://torrentproject.se/"
+            },
+            "0020": {
+              "label": "glodls",
+              "url": "https://glodls.to/"
+            },
+            "0021": {
+              "label": "Torrent downloads",
+              "url": "https://www.torrentdownloads.me/"
+            },
+            "0022": {
+              "label": "torlock.com",
+              "url": "https://www.torlock.com/"
+            },
+            "0023": {
+              "label": "",
+              "url": ""
+            },
+            "0024": {
+              "label": "디지털카메라매거진",
+              "url": "http://www.dcmcafe.co.kr/"
+            },
+            "0025": {
+              "label": "D80 Club",
+              "url": "http://d80club.com"
+            },
+            "0026": {
+              "label": "니콘",
+              "url": "http://www.nikon-image.co.kr/"
+            }
+          }
+        },
+        "qm00014": {
+          "key": "guitar",
+          "label": "Guitar",
+          "list": {
+            "0000": {
+              "label": "기타매니아",
+              "url": "http://www.guitarmania.org/"
+            },
+            "0001": {
+              "label": "기타리스트 이윤정",
+              "url": "http://blog.naver.com/PostList.nhn?blogId=clgitarre&categoryNo=4"
+            },
+            "0002": {
+              "label": "김제만 기타",
+              "url": "http://kimjemanguitar.com/"
+            },
+            "0003": {
+              "label": "엄태창 기타",
+              "url": "http://www.omguitar.co.kr/"
+            },
+            "0004": {
+              "label": "김정국 기타",
+              "url": "http://www.jeonggugguitar.com/"
+            },
+            "0005": {
+              "label": "아르티아전음악",
+              "url": "http://www.artea.co.kr/"
+            },
+            "0006": {
+              "label": "최동수 기타",
+              "url": "http://dsguitar.com/"
+            },
+            "0007": {
+              "label": "",
+              "url": ""
+            },
+            "0008": {
+              "label": "Guitarist 오승국",
+              "url": "http://www.guitar4u.co.kr/"
+            },
+            "0009": {
+              "label": "기타",
+              "url": "http://buyguitar.cafe24.com/"
+            },
+            "0010": {
+              "label": "imslp.org",
+              "url": "http://imslp.org/"
+            },
+            "0011": {
+              "label": "한소리 기타",
+              "url": "http://hansoriguitar.co.kr/"
+            },
+            "0012": {
+              "label": "마루기타",
+              "url": "http://www.marooguitar.com/"
+            },
+            "0013": {
+              "label": "구가네 클기타",
+              "url": "http://blog.daum.net/_blog/blogMain.do?blogid=0CF4Q"
+            },
+            "0014": {
+              "label": "",
+              "url": ""
+            },
+            "0015": {
+              "label": "stewmac 기타자재",
+              "url": "http://www.stewmac.com/"
+            },
+            "0016": {
+              "label": "lmii기타자재",
+              "url": "http://www.lmii.com/"
+            },
+            "0017": {
+              "label": "코아트 쇼핑몰",
+              "url": "http://www.coart.co.kr/"
+            },
+            "0018": {
+              "label": "스쿨뮤직",
+              "url": "http://www.schoolmusic.co.kr/Shop/index.php3?var=GoodList&large_number=61&middle_number=1463"
+            },
+            "0019": {
+              "label": "",
+              "url": ""
+            },
+            "0020": {
+              "label": "무료악보 다운로드:Roland Dyens",
+              "url": "http://ko.scorser.com/S/%EC%95%85%EB%B3%B4/Roland+Dyens/PDF/1.html"
+            },
+            "0021": {
+              "label": "기타악보",
+              "url": "http://guitarartcenter.com/score.html"
+            },
+            "0022": {
+              "label": "기타악보+연주",
+              "url": "http://kimmusic.co.kr/zeroboard/zboard.php?id=score&page=2&select_arrange=subject&desc=desc&category=&sn=off&ss=on&sc=on&keyword=&sn1=&divpage=1"
+            },
+            "0023": {
+              "label": "지미의 블로그(기타악보)",
+              "url": "http://blog.daum.net/_blog/ArticleCateList.do?blogid=0QKry&CATEGORYID=2&dispkind=B2201"
+            }
+          }
+        },
+        "rm00015": {
+          "key": "hosting",
+          "label": "호스팅, 도메인",
+          "list": {
+            "0000": {
+              "label": "iWinV(한국, 클라우드서버)",
+              "url": "https://www.iwinv.kr/server/server.html"
+            },
+            "0001": {
+              "label": "Linode cloud",
+              "url": "https://www.linode.com/"
+            },
+            "0002": {
+              "label": "Digitalocean cloud",
+              "url": "https://www.digitalocean.com/"
+            },
+            "0003": {
+              "label": "VULTR",
+              "url": "https://www.vultr.com/"
+            },
+            "0004": {
+              "label": "ConoHa",
+              "url": "https://www.conoha.jp/ko"
+            },
+            "0005": {
+              "label": "Bluehost",
+              "url": "https://www.bluehost.com/products/cloud-sites"
+            },
+            "0006": {
+              "label": "",
+              "url": ""
+            },
+            "0007": {
+              "label": "Dot Name",
+              "url": "http://www.dotname.co.kr/"
+            },
+            "0008": {
+              "label": "GABIA",
+              "url": "http://www.gabia.com/"
+            },
+            "0009": {
+              "label": "80port(웹호스팅)",
+              "url": "http://www.80port.com/"
+            },
+            "0010": {
+              "label": "Cafe24(웹호스팅)",
+              "url": "http://www.cafe24.com/"
+            },
+            "0011": {
+              "label": "",
+              "url": ""
+            },
+            "0012": {
+              "label": "LG데이콤 전자결제",
+              "url": "http://ecredit.dacom.net/"
+            }
+          }
+        },
+        "sm00016": {
+          "key": "tensorflow",
+          "label": "TensorFlow, Python",
+          "list": {
+            "0000": {
+              "label": "TensorFlow",
+              "url": "https://www.tensorflow.org/"
+            },
+            "0001": {
+              "label": "Google COLAB",
+              "url": "https://colab.research.google.com/notebooks/welcome.ipynb"
+            },
+            "0002": {
+              "label": "",
+              "url": ""
+            },
+            "0003": {
+              "label": "",
+              "url": ""
+            },
+            "0004": {
+              "label": "",
+              "url": ""
+            },
+            "0005": {
+              "label": "",
+              "url": ""
+            },
+            "0006": {
+              "label": "Pandas in 10 minutes(Python)",
+              "url": "https://dandyrilla.github.io/2017-08-12/pandas-10min/"
+            }
+          }
+        },
+        "tm00017": {
+          "key": "php",
+          "label": "웹개발, 기타개발",
+          "list": {
+            "1001": {
+              "label": "",
+              "url": ""
+            },
+            "1002": {
+              "label": "Svelte",
+              "url": "https://svelte.dev/"
+            },
+            "1003": {
+              "label": "Svelte_KIT",
+              "url": "https://kit.svelte.dev/"
+            },
+            "1101": {
+              "label": "",
+              "url": ""
+            },
+            "1102": {
+              "label": "vue.js-v3",
+              "url": "https://v3.ko.vuejs.org/"
+            },
+            "1201": {
+              "label": "",
+              "url": ""
+            },
+            "1202": {
+              "label": "semantic-ui",
+              "url": "https://react.semantic-ui.com/"
+            },
+            "1203": {
+              "label": "jsbin.com js,console",
+              "url": "http://jsbin.com/?js,console"
+            },
+            "1204": {
+              "label": "ReactJS",
+              "url": "https://reactjs.org/"
+            },
+            "1205": {
+              "label": "Bootstrap",
+              "url": "http://getbootstrap.com/"
+            },
+            "1206": {
+              "label": "JS Fiddle",
+              "url": "http://jsfiddle.net/"
+            },
+            "2001": {
+              "label": "",
+              "url": ""
+            },
+            "2002": {
+              "label": "Firebase",
+              "url": "https://firebase.google.com/"
+            },
+            "2003": {
+              "label": "AngularJS",
+              "url": "https://angularjs.org/"
+            },
+            "2004": {
+              "label": "꼬꼬마 한글형태소 분석",
+              "url": "http://kkma.snu.ac.kr/"
+            },
+            "2101": {
+              "label": "",
+              "url": ""
+            },
+            "2102": {
+              "label": "CrazyTalk7-립싱크 됨!",
+              "url": "https://www.reallusion.com/crazytalk7/crazytalk.aspx"
+            },
+            "2103": {
+              "label": "무료음향 freesfx",
+              "url": "http://www.freesfx.co.uk/"
+            },
+            "0000": {
+              "label": "Netty ",
+              "url": "http://www.jboss.org/netty"
+            },
+            "0001": {
+              "label": "Apache + SSL(OpenSSL) 2.2.x",
+              "url": "http://www.lovelgw.com/Blog/195"
+            },
+            "0002": {
+              "label": "",
+              "url": ""
+            },
+            "0003": {
+              "label": "Ktor: Server using Kotlin language",
+              "url": "https://ktor.io/"
+            },
+            "0004": {
+              "label": "자바 실행하는 사이트",
+              "url": "https://www.compilejava.net/"
+            }
+          }
+        },
+        "um00018": {
+          "key": "databaseDev",
+          "label": "NoSQL, Database",
+          "list": {
+            "0000": {
+              "label": "MariaDB",
+              "url": "https://mariadb.org/"
+            },
+            "0001": {
+              "label": "MariaDB Knowledge Base",
+              "url": "https://mariadb.com/kb/en/"
+            },
+            "0002": {
+              "label": "Couchbase(NoSQL)",
+              "url": "https://www.couchbase.com/"
+            },
+            "0003": {
+              "label": "오라클 PLSQL",
+              "url": "http://www.oracleclub.com/oraclelecture.action?lectureType=PLSQL"
+            },
+            "0004": {
+              "label": "mySQL Dev Zone",
+              "url": "http://dev.mysql.com/"
+            },
+            "0005": {
+              "label": "mySQL",
+              "url": "http://www.mysql.com/"
+            },
+            "0006": {
+              "label": "mySQL Tuotorial",
+              "url": "http://www.mysqltutorial.org/"
+            },
+            "0007": {
+              "label": "문서 - MySQL Cluster NDB 6.X/7.X",
+              "url": "http://dev.mysql.com/doc/refman/5.1/en/mysql-cluster.html"
+            },
+            "0008": {
+              "label": "PostGIS-PostgreSQL+GIS",
+              "url": "http://postgis.net/"
+            },
+            "0009": {
+              "label": "PostgreSQL 9.2.4 Documentation",
+              "url": "http://www.postgresql.org/docs/9.2/interactive/index.html"
+            },
+            "0010": {
+              "label": "MongoDB",
+              "url": "http://www.mongodb.org/"
+            },
+            "0011": {
+              "label": "",
+              "url": ""
+            },
+            "0012": {
+              "label": "BigchainDB",
+              "url": "https://www.bigchaindb.com/"
+            },
+            "0013": {
+              "label": "ArangoDB Home",
+              "url": "https://www.arangodb.com/"
+            },
+            "0014": {
+              "label": "Apache CouchDB",
+              "url": "https://couchdb.apache.org/"
+            },
+            "0013a": {
+              "label": "ArangoDB Java Client Ref.",
+              "url": "http://arangodb.github.io/arangodb-java-driver/javadoc-6_9/"
+            }
+          }
+        },
+        "vm00019": {
+          "key": "flanguage",
+          "label": "외국어(영,독,Pt,Es)",
+          "list": {
+            "0000": {
+              "label": "Grammarly",
+              "url": "https://www.naturalreaders.com/online/"
+            },
+            "0001": {
+              "label": "TTS-oddcast",
+              "url": "http://www.oddcast.com/demos/tts/tts_example.php?clients"
+            },
+            "0002": {
+              "label": "The Virtual Linguistics Campus",
+              "url": "https://www.youtube.com/user/LinguisticsMarburg/videos"
+            },
+            "0003": {
+              "label": "",
+              "url": ""
+            },
+            "0004": {
+              "label": "Reverso Context(De)",
+              "url": "http://context.reverso.net/%C3%BCbersetzung/deutsch-englisch/"
+            },
+            "0005": {
+              "label": "독일어(Naver사전)",
+              "url": "https://dict.naver.com/dekodict/#/main"
+            },
+            "0006": {
+              "label": "Collins Dic.(German)",
+              "url": "https://www.collinsdictionary.com/dictionary/german-english/"
+            },
+            "0007": {
+              "label": "독일어 동사변화",
+              "url": "https://en.bab.la/conjugation/german/"
+            },
+            "0008": {
+              "label": "",
+              "url": ""
+            },
+            "0009": {
+              "label": "포르투갈어",
+              "url": "https://www.practiceportuguese.com/"
+            },
+            "0010": {
+              "label": "Collins Dic.(Portuguese)",
+              "url": "https://www.collinsdictionary.com/pt/dictionary/portuguese-english/"
+            },
+            "0011": {
+              "label": "Bab.la Dic.(Portuguese)",
+              "url": "https://pt.bab.la/dicionario/portugues-ingles/"
+            },
+            "0012": {
+              "label": "포르투갈어 동사변화",
+              "url": "https://en.bab.la/conjugation/portuguese/"
+            },
+            "0013": {
+              "label": "Reverso Context(Pt)",
+              "url": "http://context.reverso.net/translation/portuguese-english/"
+            },
+            "0014": {
+              "label": "Portuguese Lab(European) YouTube",
+              "url": "https://www.youtube.com/channel/UCb0zJhS1C8QK3fzcZdU0Xkw/videos?shelf_id=1&view=0&sort=dd"
+            },
+            "0015": {
+              "label": "Practice Portuguese YouTube",
+              "url": "https://www.youtube.com/user/PracticePortuguese/videos"
+            },
+            "0016": {
+              "label": "Practice Portuguese",
+              "url": "https://www.practiceportuguese.com/"
+            },
+            "0017": {
+              "label": "learn European Portuguese",
+              "url": "https://www.learn-portuguese-with-rafa.com/learn-european-portuguese.html"
+            },
+            "0018": {
+              "label": "Portuguese Lab (European)",
+              "url": "https://www.portugueselab.com/"
+            },
+            "0019": {
+              "label": "",
+              "url": ""
+            },
+            "0020": {
+              "label": "스페인어동사변화",
+              "url": "http://www.wordreference.com/conj/EsVerbs.aspx"
+            },
+            "0021": {
+              "label": "스페인어-Trailers",
+              "url": "http://www.ver-taal.com/"
+            },
+            "0022": {
+              "label": "Livemocha.com",
+              "url": "http://livemocha.com/"
+            },
+            "0023": {
+              "label": "",
+              "url": ""
+            },
+            "0024": {
+              "label": "BBC Learning English",
+              "url": "http://www.bbc.co.uk/learningenglish/"
+            },
+            "0025": {
+              "label": "영어VOCABULARY-Wordly Wise 3000",
+              "url": "http://wordlywise3000.com"
+            },
+            "0026": {
+              "label": "English in Korean-오늘의 표현",
+              "url": "http://englishinkorean.com/expression-of-the-day/"
+            },
+            "0027": {
+              "label": "Voice of America 영어",
+              "url": "http://learningenglish.voanews.com/"
+            },
+            "0028": {
+              "label": "영어사전-어원나옴",
+              "url": "http://www.etymonline.com/"
+            },
+            "0004wikibooks": {
+              "label": "German Level-1, wikibooks",
+              "url": "https://en.wikibooks.org/wiki/German/Level_I"
+            }
+          }
+        },
+        "wm00020": {
+          "key": "sourceforge",
+          "label": "SourceForge, Linux, VS, 기타",
+          "list": {
+            "0000": {
+              "label": "Korea Embedded Linux",
+              "url": "http://www.kelp.or.kr/"
+            },
+            "0001": {
+              "label": "LiMo",
+              "url": "http://www.limofoundation.org/"
+            },
+            "0002": {
+              "label": "SourceForge",
+              "url": "http://sourceforge.net/"
+            },
+            "0003": {
+              "label": "Visual Studio 2005",
+              "url": "http://msdn.microsoft.com/ko-kr/library/aa187919.aspx"
+            },
+            "0004": {
+              "label": "PHP CAD",
+              "url": "http://sourceforge.net/projects/phpcad/"
+            },
+            "0005": {
+              "label": "BRL-CAD",
+              "url": "http://sourceforge.net/projects/brlcad/"
+            }
+          }
+        },
+        "xm00021": {
+          "key": "arti",
+          "label": "Articles...",
+          "list": {
+            "0000": {
+              "label": "“IT조직, 껍질을 깨라”? 세계적 경영컨설턴트 르네 카라욜 ",
+              "url": "http://bloter.net/archives/8968"
+            },
+            "0001": {
+              "label": "프로세스 없이도 꿋꿋이 살아온 부실한 IT조직들",
+              "url": "http://smartcore.tistory.com/171"
+            },
+            "0002": {
+              "label": "연방형IT조직",
+              "url": "http://www.dt.co.kr/contents.html?article_no=2002031302010451562001"
+            },
+            "0003": {
+              "label": "분석활동이 없는 IT조직들",
+              "url": "http://blog.daum.net/woalsdlvjxld/7513585"
+            },
+            "0004": {
+              "label": "IT조직의 자기반성과 IT PI",
+              "url": "http://www.dt.co.kr/contents.html?article_no=2006030202012769631002"
+            },
+            "0005": {
+              "label": "IT거버넌스시리즈1",
+              "url": "http://itgovernance.co.kr/board/bbs/board.php?bo_table=gov&wr_id=4&page=2"
+            },
+            "0006": {
+              "label": "가트너 보고서 ‘CIO 리더의 10계명’",
+              "url": "http://www.goodus.com/web2008/press/press_news_view.asp?idx=89&page=3"
+            },
+            "0007": {
+              "label": "장애가 없다고 주장(?)하는 IT조직들",
+              "url": "http://www.zdnet.co.kr/itbiz/column/anchor/yscho/0,39044217,39174377,00.htm"
+            },
+            "0008": {
+              "label": "사용자 불만이 없다고 착각하는 IT조직들",
+              "url": "http://www.zdnet.co.kr/itbiz/column/anchor/yscho/0,39044217,39176087,00.htm"
+            },
+            "0009": {
+              "label": "아웃소싱 조직관리",
+              "url": "http://user.chol.com/~dj4u/outsourcing/osres_02.htm"
+            },
+            "0010": {
+              "label": "폴리곤 넓이",
+              "url": "http://www.wikihow.com/Calculate-the-Area-of-a-Polygon"
+            }
+          }
+        },
+        "ya00001": {
+          "key": "ecoindex",
+          "label": "경제지표",
+          "list": {
+            "0000": {
+              "label": "10년vs2년스프레드",
+              "url": "https://fred.stlouisfed.org/series/T10Y2Y"
+            },
+            "0001": {
+              "label": "10년vs3개월스프레드",
+              "url": "https://fred.stlouisfed.org/series/T10Y3M"
+            },
+            "0002": {
+              "label": "Gold Fixing Price",
+              "url": "https://fred.stlouisfed.org/series/GOLDAMGBD228NLBM"
+            },
+            "0003": {
+              "label": "30년 Fixed Rate Mortgage Average(미국)",
+              "url": "https://fred.stlouisfed.org/series/MORTGAGE30US"
+            },
+            "0004": {
+              "label": "10-Year Breakeven Inflation Rate (T10YIE)",
+              "url": "https://fred.stlouisfed.org/series/T10YIE"
+            },
+            "0005": {
+              "label": "30년 Treasury Constant Maturity Rate",
+              "url": "https://fred.stlouisfed.org/series/DGS30"
+            },
+            "0006": {
+              "label": "10년 Treasury Constant Maturity Rate",
+              "url": "https://fred.stlouisfed.org/series/DGS10"
+            },
+            "0007": {
+              "label": "3년 Treasury Constant Maturity Rate",
+              "url": "https://fred.stlouisfed.org/series/DGS3"
+            },
+            "0008": {
+              "label": "2년 Treasury Constant Maturity Rate",
+              "url": "https://fred.stlouisfed.org/series/DGS2"
+            },
+            "0009": {
+              "label": "ICE BofA US High Yield Index Total Return Index Value",
+              "url": "https://fred.stlouisfed.org/series/BAMLHYH0A0HYM2TRIV"
+            },
+            "I000": {
+              "label": "",
+              "url": ""
+            },
+            "I001": {
+              "label": "실시간 지수 선물 목록(Investing)",
+              "url": "https://kr.investing.com/indices/indices-futures"
+            },
+            "J001": {
+              "label": "",
+              "url": ""
+            },
+            "J002": {
+              "label": "선대인경제연구소",
+              "url": "https://www.sdinomics.com/"
+            }
+          }
+        },
+        "zz99999": {
+          "key": "labisfun",
+          "label": "Lab=Fun()",
+          "list": {
+            "0000": {
+              "label": "LAB IS FUN,INC.",
+              "url": "http://www.labisfun.com"
+            },
+            "0001": {
+              "label": "Slack",
+              "url": "https://slack.com/intl/ko-kr/"
+            },
+            "0002": {
+              "label": "AIM Atlassian",
+              "url": "https://aimatics.atlassian.net/welcome/software"
+            },
+            "0009": {
+              "label": "",
+              "url": ""
+            },
+            "0010": {
+              "label": "자비스",
+              "url": "https://service.jobis.co/"
+            }
+          }
+        }
+      },
+      "sidebar": {
+        "am00000": {
+          "0002": {
+            "label": "구글Suite admin",
+            "url": "https://admin.google.com/"
+          },
+          "0003": {
+            "label": "구글지도",
+            "url": "http://maps.google.co.kr/"
+          },
+          "0004": {
+            "label": "다음메일",
+            "url": "http://mail.daum.net/"
+          },
+          "\"notebooklm\"": {
+            "label": "NotebookLM",
+            "url": "https://notebooklm.google.com/"
+          },
+          "ggl_ai_stud": {
+            "label": "Google AI Studio",
+            "url": "https://aistudio.google.com/gen-media"
+          },
+          "ggl_console": {
+            "label": "Google Console",
+            "url": "https://console.cloud.google.com/"
+          }
+        },
+        "bm00001": {
+          "0000": {
+            "label": "네이버사전",
+            "url": "https://dict.naver.com/"
+          },
+          "0001": {
+            "label": "Reverso Context(De)",
+            "url": "http://context.reverso.net/%C3%BCbersetzung/deutsch-englisch/"
+          },
+          "0002": {
+            "label": "독일어(Naver사전)",
+            "url": "https://dict.naver.com/dekodict/#/main"
+          },
+          "0005": {
+            "label": "네이버Esp사전",
+            "url": "https://dict.naver.com/eskodict/espanol/#/main"
+          },
+          "0006": {
+            "label": "네이버Portuguese사전",
+            "url": "https://dict.naver.com/ptkodict/portuguese/#/main"
+          },
+          "0007": {
+            "label": "다음사전",
+            "url": "http://alldic.daum.net/"
+          }
+        },
+        "cm00002": {
+          "0000": {
+            "label": "Naver 금융",
+            "url": "http://finance.naver.com/"
+          },
+          "0001": {
+            "label": "KB국민은행",
+            "url": "https://www.kbstar.com/"
+          },
+          "0002": {
+            "label": "한국투자증권",
+            "url": "https://www.truefriend.com/"
+          },
+          "0003": {
+            "label": "우리은행",
+            "url": "https://www.wooribank.com/"
+          },
+          "0004": {
+            "label": "홈택스",
+            "url": "https://www.hometax.go.kr/"
+          },
+          "0002a": {
+            "label": "삼성증권",
+            "url": "https://www.samsungpop.com/"
+          },
+          "0002b": {
+            "label": "미래에셋",
+            "url": "https://securities.miraeasset.com/"
+          }
+        },
+        "dm00003": {
+          "0000": {
+            "label": "VS Code on-line",
+            "url": "https://stackblitz.com/"
+          },
+          "0001": {
+            "label": "AWS 콘솔",
+            "url": "https://ap-northeast-2.console.aws.amazon.com/console/home?region=ap-northeast-2#"
+          },
+          "0003": {
+            "label": "Public domain 오디오북",
+            "url": "https://librivox.org/"
+          }
+        },
+        "em00004": {
+          "0000": {
+            "label": "달팽이",
+            "url": "http://sites.google.com/site/snailhouse2010/"
+          },
+          "0001": {
+            "label": "site/Perl.or.kr",
+            "url": "http://sites.google.com/site/perlorkr/"
+          },
+          "0002": {
+            "label": "site/Playboy.or.kr",
+            "url": "http://sites.google.com/site/playboyorkr/"
+          }
+        }
+      },
+      "toolbar": {
+        "aa0000": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fvzm.png?alt=media&token=56c5c573-0d66-4e8f-bd1f-7483a4eb963f",
+          "label": "VZM",
+          "url": "https://www.dbdbtap.com"
+        },
+        "am0000": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fgoogle.png?alt=media&token=f0c8a204-4ce0-4260-be63-6a195cffe5cd",
+          "label": "Google",
+          "url": "https://www.google.co.uk/"
+        },
+        "bm0001": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fyoutube.png?alt=media&token=5ac53fce-2dd0-46ab-8c85-69917f39c3c3",
+          "label": "youtube",
+          "url": "https://www.youtube.com/"
+        },
+        "cm0002": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Freactjs.png?alt=media&token=1e1458e4-5055-4d77-9118-f313d787b89a",
+          "label": "react document",
+          "url": "https://reactjs.org/docs/react-api.html"
+        },
+        "dm0003": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Ffirebase.png?alt=media&token=5cb93cc4-77ce-414d-b798-62d1c2000393",
+          "label": "firebase console",
+          "url": "https://console.firebase.google.com/"
+        },
+        "em0004": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fnaver.png?alt=media&token=b910c296-b06d-4883-9600-204397ea4113",
+          "label": "네이버",
+          "url": "http://www.naver.com"
+        },
+        "em0005": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fnaver-map.png?alt=media&token=2161f503-c265-4c3e-8afc-1dc4c422e01f",
+          "label": "네이버지도",
+          "url": "https://map.naver.com/v5/"
+        },
+        "fm0005": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fgoogle_tr.png?alt=media&token=c258406c-4d58-4032-b131-9ec975b4f48d",
+          "label": "Google 번역",
+          "url": "https://translate.google.co.kr/"
+        },
+        "gm0006": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fgoogle_drive.png?alt=media&token=b40a69c2-219d-4a4b-857e-494b03009ec7",
+          "label": "Google Drive",
+          "url": "https://drive.google.com/"
+        },
+        "hm0007": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fgmail.png?alt=media&token=1521a946-e071-4555-9f16-1a9739419719",
+          "label": "Gmail",
+          "url": "https://mail.google.com/"
+        },
+        "jm0007_netflix": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fnetflix_128.png?alt=media&token=e2d6bf26-0236-43dd-b515-18dc512678c9",
+          "label": "Netflix",
+          "url": "https://www.netflix.com/"
+        },
+        "km0008_flutter": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fflutter.png?alt=media&token=beec5ce6-b19f-4a28-af4d-5e7775ced031",
+          "label": "Flutter-DOC",
+          "url": "https://flutter.dev/docs"
+        },
+        "lm0001": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fyahoo-finance-icon.png?alt=media&token=606a02ea-046a-4370-bb0e-0e4bf957c5b2",
+          "label": "Yahoo fin",
+          "url": "https://finance.yahoo.com/"
+        },
+        "mm0001": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fgooglefinance.png?alt=media&token=27062bb6-3071-49ba-b2b2-fe5cb8293137",
+          "label": "Google Finance",
+          "url": "https://www.google.com/finance/"
+        },
+        "nm0001": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Ftelegram_512.png?alt=media&token=f7dc9093-ac74-4ff2-894e-0f616a1e1c0b",
+          "label": "Telegram",
+          "url": "https://web.telegram.org/k/"
+        },
+        "om0001": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fgoogle_bard_512wh.png?alt=media&token=ab829c38-fb7b-4b26-8839-a43670905ee1",
+          "label": "Google Bard",
+          "url": "https://gemini.google.com/app"
+        },
+        "pm0001": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fchatgpt_353wh.png?alt=media&token=61b93d00-0347-4782-9e1a-2658fd1e1641",
+          "label": "ChatGPT",
+          "url": "https://chat.openai.com/"
+        },
+        "qa0001_claude": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fclaude.svg?alt=media&token=47d40131-19c2-44f9-b85e-23bcb9eb9d9b",
+          "label": "Claude",
+          "url": "https://claude.ai"
+        },
+        "qm0001_perplexity": {
+          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fperplexity.png?alt=media&token=a19221f1-1982-4eb8-99ea-455858259b9f",
+          "label": "Perplexity",
+          "url": "https://www.perplexity.ai/"
+        }
+      }
+    }
+  }
+}
