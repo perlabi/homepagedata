@@ -1911,97 +1911,97 @@
       },
       "toolbar": {
         "aa0000": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fvzm.png?alt=media&token=56c5c573-0d66-4e8f-bd1f-7483a4eb963f",
+          "icon": "vzm.png",
           "label": "VZM",
           "url": "https://www.dbdbtap.com"
         },
         "am0000": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fgoogle.png?alt=media&token=f0c8a204-4ce0-4260-be63-6a195cffe5cd",
+          "icon": "google.png",
           "label": "Google",
           "url": "https://www.google.co.uk/"
         },
         "bm0001": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fyoutube.png?alt=media&token=5ac53fce-2dd0-46ab-8c85-69917f39c3c3",
+          "icon": "youtube.png",
           "label": "youtube",
           "url": "https://www.youtube.com/"
         },
         "cm0002": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Freactjs.png?alt=media&token=1e1458e4-5055-4d77-9118-f313d787b89a",
+          "icon": "reactjs.png",
           "label": "react document",
           "url": "https://reactjs.org/docs/react-api.html"
         },
         "dm0003": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Ffirebase.png?alt=media&token=5cb93cc4-77ce-414d-b798-62d1c2000393",
+          "icon": "firebase.png",
           "label": "firebase console",
           "url": "https://console.firebase.google.com/"
         },
         "em0004": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fnaver.png?alt=media&token=b910c296-b06d-4883-9600-204397ea4113",
+          "icon": "naver.png",
           "label": "네이버",
           "url": "http://www.naver.com"
         },
         "em0005": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fnaver-map.png?alt=media&token=2161f503-c265-4c3e-8afc-1dc4c422e01f",
+          "icon": "naver-map.png",
           "label": "네이버지도",
           "url": "https://map.naver.com/v5/"
         },
         "fm0005": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fgoogle_tr.png?alt=media&token=c258406c-4d58-4032-b131-9ec975b4f48d",
+          "icon": "google_tr.png",
           "label": "Google 번역",
           "url": "https://translate.google.co.kr/"
         },
         "gm0006": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fgoogle_drive.png?alt=media&token=b40a69c2-219d-4a4b-857e-494b03009ec7",
+          "icon": "google_drive.png",
           "label": "Google Drive",
           "url": "https://drive.google.com/"
         },
         "hm0007": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fgmail.png?alt=media&token=1521a946-e071-4555-9f16-1a9739419719",
+          "icon": "gmail.png",
           "label": "Gmail",
           "url": "https://mail.google.com/"
         },
         "jm0007_netflix": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fnetflix_128.png?alt=media&token=e2d6bf26-0236-43dd-b515-18dc512678c9",
+          "icon": "netflix_128.png",
           "label": "Netflix",
           "url": "https://www.netflix.com/"
         },
         "km0008_flutter": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fflutter.png?alt=media&token=beec5ce6-b19f-4a28-af4d-5e7775ced031",
+          "icon": "flutter.png",
           "label": "Flutter-DOC",
           "url": "https://flutter.dev/docs"
         },
         "lm0001": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fyahoo-finance-icon.png?alt=media&token=606a02ea-046a-4370-bb0e-0e4bf957c5b2",
+          "icon": "yahoo-finance-icon.png",
           "label": "Yahoo fin",
           "url": "https://finance.yahoo.com/"
         },
         "mm0001": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fgooglefinance.png?alt=media&token=27062bb6-3071-49ba-b2b2-fe5cb8293137",
+          "icon": "googlefinance.png",
           "label": "Google Finance",
           "url": "https://www.google.com/finance/"
         },
         "nm0001": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Ftelegram_512.png?alt=media&token=f7dc9093-ac74-4ff2-894e-0f616a1e1c0b",
+          "icon": "telegram_512.png",
           "label": "Telegram",
           "url": "https://web.telegram.org/k/"
         },
         "om0001": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fgoogle_bard_512wh.png?alt=media&token=ab829c38-fb7b-4b26-8839-a43670905ee1",
+          "icon": "google_bard_512wh.png",
           "label": "Google Bard",
           "url": "https://gemini.google.com/app"
         },
         "pm0001": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fchatgpt_353wh.png?alt=media&token=61b93d00-0347-4782-9e1a-2658fd1e1641",
+          "icon": "chatgpt_353wh.png",
           "label": "ChatGPT",
           "url": "https://chat.openai.com/"
         },
         "qa0001_claude": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fclaude.svg?alt=media&token=47d40131-19c2-44f9-b85e-23bcb9eb9d9b",
+          "icon": "claude.svg",
           "label": "Claude",
           "url": "https://claude.ai"
         },
         "qm0001_perplexity": {
-          "icon": "https://firebasestorage.googleapis.com/v0/b/dustondot.appspot.com/o/bookmarks%2Fperplexity.png?alt=media&token=a19221f1-1982-4eb8-99ea-455858259b9f",
+          "icon": "perplexity.png",
           "label": "Perplexity",
           "url": "https://www.perplexity.ai/"
         }
